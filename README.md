@@ -14,7 +14,9 @@ A brief description of your project.
 ## Installation
 
  **Start the application:**
-    ```bash
+    ```
+    cd directory
+    npm i
     npx expo start
     ```
 
@@ -27,6 +29,7 @@ A brief description of your project.
 **Login Page**  
 <!-- ![Login Page Screenshot](./assets/readme/login.png) -->
 <img src="./assets/readme/login.png" alt="login Page Screenshot" width="300"/>
+
 **Register Page**  
 <!-- ![Login Page Screenshot](./assets/readme/register.png) -->
 <img src="./assets/readme/register.png" alt="register Page Screenshot" width="300"/>
