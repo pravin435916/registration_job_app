@@ -21,12 +21,14 @@ A brief description of your project.
 ## Screenshots
 
 **Home Page**  
-![Home Page Screenshot](./assets/readme/home.png)
+<!-- ![Home Page Screenshot](./assets/readme/home.png) -->
+<img src="./assets/readme/home.png" alt="Home Page Screenshot" width="500"/>
 
 **Login Page**  
-![Login Page Screenshot](./assets/readme/login.png)
-
+<!-- ![Login Page Screenshot](./assets/readme/login.png) -->
+<img src="./assets/readme/login.png" alt="login Page Screenshot" width="500"/>
 **Register Page**  
-![Login Page Screenshot](./assets/readme/register.png)
+<!-- ![Login Page Screenshot](./assets/readme/register.png) -->
+<img src="./assets/readme/register.png" alt="register Page Screenshot" width="500"/>
 ## License
 This project is licensed under the MIT License.
