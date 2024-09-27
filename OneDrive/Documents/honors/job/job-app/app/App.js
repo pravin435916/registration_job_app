@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       {/* <Button title='Go to home' onPress={() => router.push("home")} /> */}
+      {/* <Button title='Go to home' onPress={() => router.push("home")} /> */}
         <Screen1/>
     </View>
   );
