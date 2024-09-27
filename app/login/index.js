@@ -80,6 +80,8 @@ const styles = StyleSheet.create({
   },
   headerSubText: {
     fontSize: 16,
+    marginHorizontal: 8,
+    fontWeight:'600',
     color: '#000',
   },
   formContainer: {

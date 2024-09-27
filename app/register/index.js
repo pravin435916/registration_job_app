@@ -34,6 +34,13 @@ const register = () => {
           onChangeText={(text) => setPassword(text)}
           value={password}
         />
+        <TextInput
+          style={styles.input}
+          placeholder="Confirm Password"
+          secureTextEntry={true}
+          onChangeText={(text) => setPassword(text)}
+          value={password}
+        />
         <TouchableOpacity style={styles.forgotPassword}>
           <Text style={styles.forgotPasswordText}>
             Forgot your password?
@@ -80,7 +87,8 @@ const styles = StyleSheet.create({
   },
   headerSubText: {
     fontSize: 16,
-    // fontWeight:600,``
+    marginHorizontal: 8,
+    fontWeight:'600',
     textAlign:'center',
     color: '#000',
   },
